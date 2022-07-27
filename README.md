@@ -1,4 +1,5 @@
-<h1 align="center">Projeto Machine Learning em R - Inadimplência de Clientes</h1>
+<h1 align="center">Projeto Machine Learning em R
+<br /><br />Inadimplência de Clientes</h1>
 <br />
 Neste projeto foi criado um Modelo de Machine Learning pra prever a Inadimplência de Novos Clientes. Foi usado a linguagem R na execução de todas as etapas.
 <br />
